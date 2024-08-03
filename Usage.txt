@@ -1,0 +1,3 @@
+https://github.com/Abhi-Ram18/PRODIGY_CS_01.git
+cd PRODIGY_CS_01
+python3 Axcrypt.py
